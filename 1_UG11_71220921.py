@@ -1,0 +1,28 @@
+print("Halo selamat datang di bioskop!")
+print("Dimanakah kamu ingin nonton?")
+print("1)XXI Empire")
+print("2)XXI Amplaz")
+print("3)XXI JCM")
+pilihan =(input("masukan pilihanmu:"))
+
+print("Mau nonton film apa nih? ada film:")
+print("1.frozen")
+print("2.keramat")
+print("KKN di Desa Penari")
+pilihan =(input("pilih nomor film"))
+
+print("Mau nonton layar bioskop apa:")
+print("1.Reguler")
+print("Dolby almos")
+print("3.Premiere")
+pilihan =(input("Pilih nomor tipe layar:"))
+pilihan =(input("Berapa banyak tiket?"))
+
+print("Mau nonton jam berapa:")
+print("1. 12:34")
+print("2. 14:45")
+print("3. 16:55")
+print("4. 19:05")
+pilihan =(input("masukan pilihan angka:"))
+
+print("oke berhasil,silahkan dinikmati jam 12.35")
